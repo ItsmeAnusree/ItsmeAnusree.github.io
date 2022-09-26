@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="style/images/favicon.png">
+    <title>Missio</title>
+    <link rel="stylesheet" type="text/css" href="style/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="style/css/plugins.css">
+    <link rel="stylesheet" type="text/css" href="style/revolution/css/settings.css">
+    <link rel="stylesheet" type="text/css" href="style/revolution/css/layers.css">
+    <link rel="stylesheet" type="text/css" href="style/revolution/css/navigation.css">
+    <link rel="stylesheet" type="text/css" href="style/type/icons.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="style/css/color/rose.css">
+</head>
+
+<body>
+    <div class="content-wrapper">
+        <nav class="navbar wide transparent transparent-light wrapper bg-pastel-red absolute text-uppercase navbar-expand-lg">
+            <div class="container-fluid flex-row justify-content-center">
+                <div class="navbar-header">
+                    <div class="navbar-brand"><a href="index.html"><img src="#" srcset="style/images/logo4.png 1x, style/images/logo2@2x.png 2x" alt="" /></a></div>
+                    <div class="navbar-hamburger ml-auto d-lg-none d-xl-none"><button class="hamburger animate" data-toggle="collapse" data-target=".navbar-collapse"><span></span></button></div>
+                </div>
+                <!-- /.navbar-header -->
+                <div class="navbar-collapse collapse justify-content-between align-items-center">
+                    <ul class="navbar-nav plain mx-auto text-center">
+                        <li class="nav-item"><a class="nav-link" href="#">Home</a>
+                            <ul class="dropdown-menu mega-menu boxed list-view text-left">
+                                <li class="mega-menu-content">
+                                    <div class="image-block-wrapper">
+                                        <div class="image-block col-lg-4 col-xl-5">
+                                            <div class="image-block-bg bg-image" data-image-src="style/images/art/me2.jpg"></div>
+                                        </div>
+                                        <!--/.image-block -->
+                                        <div class="container-fluid">
+                                            <div class="row">
+                                                <div class="col-lg-8 offset-lg-4 col-xl-7 offset-xl-5">
+                                                    <div class="box">
+                                                        <div class="row">
+                                                            
+                                                            <!--/column -->
+                                                           
+                                                            <!--/column -->
+                                                            
+                                                            <!--/column -->
+                                                        </div>
+                                                        <!--/.row -->
+                                                    </div>
+                                                    <!-- /.box -->
+                                                </div>
+                                                <!--/column -->
+                                            </div>
+                                            <!--/.row -->
+                                        </div>
+                                        <!--/.container-fluid -->
+                                    </div>
+                                    <!--/.image-block-wrapper -->
+                                </li>
+                                <!--/.mega-menu-content-->
+                            </ul>
+                            <!--/.dropdown-menu -->
+                        </li>
+                        <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#">Portfolio</a>
+                         
+                        </li>
+                        <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#">Gallery</a>
+                           
+                        </li>
+                        <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#">Pages</a>
+                            
+                        </li>
+                        <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#">Blog</a>
+                           
+                        </li>
+                        <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#">Features</a>
+                            
+                        </li>
+                        <li class="nav-item"><a class="nav-link" href="#">Elements</a>
+                            
+                            <!--/.dropdown-menu -->
+                        </li>
+                        <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#">Contact</a>
+                            
+                        </li>
+                    </ul>
+                </div>
+                <div class="social-wrapper text-right">
+                    <ul class="social social-mute social-s mb-0">
+                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
+                        <li><a href="#"><i class="fa fa-vimeo"></i></a></li>
+                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                    </ul>
+                </div>
+                <!--/.social-wrapper -->
+            </div>
+        </nav>
+        <div class="wrapper bg-pastel-red">
+            <div class="container inner pt-140 pb-230">
+                <div class="row">
+                    <div class="col-md-10 offset-md-1 text-center">
+                        <h1 class="section-title section-title-upper larger">Welcome!, Sathi</h1>
+                         <h3 class="sub-heading2 text-center">Hey Madam! I have created this site for you with your stunning photos and videos 😊.
+                            <br class="d-none d-lg-block" /> Hope you will like this.</h3>
+                    </div>
+                    <!-- /column -->
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /.wrapper -->
+        <div class="wrapper bleed-wrapper">
+            <div class="container inner pt-0">
+                <div class="flickity-carousel-container fullscreen">
+                    <div class="flickity flickity-carousel">
+                        <div class="item mr-15"><img src="image/clickhere.jpg" alt="" /></div>
+                        <div class="item mr-15"><img src="image/saree2.jpg" alt="" /></div>
+                        <div class="item mr-15"><img src="image/saree3.jpg" alt="" /></div>
+						 <div class="item mr-15"><img src="image/sp5.jpg" alt="" /></div>
+                       
+                      
+                    </div>
+                    <!-- /.flickity-carousel -->
+                    <p class="flickity-status"></p>
+                </div>
+                <!-- /.flickity-carousel-container -->
+                <div class="space100"></div>
+                
+                <div class="space30"></div>
+                <div class="tiles">
+                    <div class="items row">
+                        <div class="item col-lg-5 pr-35 pr-sm-15">
+                            <div class="space100 d-none d-lg-block"></div>
+                            
+                            <div class="space10"></div>
+                            <a  class="btn btn-white shadow scroll">Here is Her Gallery</a>
+                        </div>
+                        <!--/.item -->
+                        <div class="space30 d-none d-md-block d-lg-none"></div>
+                        <div class="item col-lg-7">
+                            <figure class="mb-0"><img src="image/college1.jpg" alt="" /></figure>
+                        </div>
+                        <!--/.item -->
+                    </div>
+                    <!--/.row -->
+                </div>
+                <!-- /.tiles -->
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /.wrapper -->
+        <div class="wrapper gray-wrapper">
+            <div class="container inner">
+                <div class="row d-flex align-items-center">
+                    <div class="col-lg-7 pr-35 pr-sm-15">
+                        <figure class="rounded"><img src="image/about.jpg" alt=""></figure>
+                    </div>
+                    <!-- /column -->
+                    <div class="space30 d-block d-lg-none d-xl-none"></div>
+                    <div class="col-lg-5">
+                        <h2 class="section-title section-title-upper larger">About Me</h2>
+                        <p class="lead">Hey! it's me Sathi. I am currently doing my bachelor degree from Panskura Banamali college. I am a girl who loves her family so much and loves to travel. I love cooking, hills, wearing saree. I seriously take care of my fitness and yeah I am fitness freak too 😎.</p>
+                        <p>I know a girl who is better than strawberry.
+
+She is farer than the grand white Fujiyama.
+
+She is purer than the water of the wholly Suraj Tal
+
+From where the stream of Chandra flows down
+
+The gorgeous heights of the Himalayas.
+
+She is the spring of joy,
+
+Do you know the girl 💥 ?</p>
+                        <div class="space10"></div>
+                        <a href="https://www.facebook.com/sathi.dey.5036459" class="btn btn-white shadow">More About Sathi</a>
+                    </div>
+                    <!-- /column -->
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /.wrapper -->
+        <div class="wrapper light-wrapper">
+            <div class="container inner">
+                <h2 class="section-title section-title-upper larger text-center">Some of My Shots</h2>
+                <p class="lead text-center">Beauty ends after you dear!! ❤</p>
+                <div class="space20"></div>
+                <div class="tiles grid">
+                    <div class="items row isotope boxed grid-view">
+                        <div class="item grid-sizer col-md-6 col-lg-4">
+                            <div class="box bg-white shadow p-30">
+                                <figure class="main mb-20 overlay overlay1 rounded"><img src="image/im11.jpg" alt="" /></a>
+                                    <figcaption>
+                                        
+                                    </figcaption>
+                                </figure>
+                                <h5 class="mb-0"><i>Glamorous</i></h5>
+                             
+                            </div>
+                            <!-- /.box -->
+                        </div>
+                        <!--/.item -->
+                        <div class="item grid-sizer col-md-6 col-lg-4">
+                            <div class="box bg-white shadow p-30">
+                                <figure class="main mb-20 overlay overlay1 rounded"><img src="image/im10.jpg" alt="" /></a>
+                                    <figcaption>
+                                        
+                                    </figcaption>
+                                </figure>
+                                <h5 class="mb-0"><i>Stunning</i></h5>
+                               
+                            </div>
+                            <!-- /.box -->
+                        </div>
+                        <!--/.item -->
+                        <div class="item grid-sizer col-md-6 col-lg-4">
+                            <div class="box bg-white shadow p-30">
+                                <figure class="main mb-20 overlay overlay1 rounded"><img src="image/im9.jpg" alt="" /></a>
+                                    <figcaption>
+                                        
+                                    </figcaption>
+                                </figure>
+                                <h5 class="mb-0"><i>Angelic</i></h5>
+                            
+                            </div>
+                            <!-- /.box -->
+                        </div>
+                        <!--/.item -->
+                        <div class="item grid-sizer col-md-6 col-lg-4">
+                            <div class="box bg-white shadow p-30">
+                                <figure class="main mb-20 overlay overlay1 rounded"><img src="image/im6.jpg" alt="" /></a>
+                                    <figcaption>
+                                        
+                                    </figcaption>
+                                </figure>
+                                <h5 class="mb-0"><i>Innocent</i></h5>
+                                
+                            </div>
+                            <!-- /.box -->
+                        </div>
+                        <!--/.item -->
+                        <div class="item grid-sizer col-md-6 col-lg-4">
+                            <div class="box bg-white shadow p-30">
+                                <figure class="main mb-20 overlay overlay1 rounded"><img src="image/im3.jpg" alt="" /></a>
+                                    <figcaption>
+                                        
+                                    </figcaption>
+                                </figure>
+                                <h5 class="mb-0"><i>Doll</i></h5>
+                              
+                            </div>
+                            <!-- /.box -->
+                        </div>
+                        <!--/.item -->
+                        <div class="item grid-sizer col-md-6 col-lg-4">
+                            <div class="box bg-white shadow p-30">
+                                <figure class="main mb-20 overlay overlay1 rounded"><img src="image/im5.jpg" alt="" /></a>
+                                    <figcaption>
+                                        
+                                    </figcaption>
+                                </figure>
+                                <h5 class="mb-0"><i>Gorgeous</i></h5>
+                             
+                            </div>
+                            <!-- /.box -->
+                        </div>
+                        <!--/.item -->
+                        <div class="item grid-sizer col-md-6 col-lg-4">
+                            <div class="box bg-white shadow p-30">
+                                <figure class="main mb-20 overlay overlay1 rounded"><img src="image/im.jpg" alt="" /></a>
+                                    <figcaption>
+                                        
+                                    </figcaption>
+                                </figure>
+                                <h5 class="mb-0"><i>Cute</i></h5>
+                                
+                            </div>
+                            <!-- /.box -->
+                        </div>
+                        <!--/.item -->
+                        <div class="item grid-sizer col-md-6 col-lg-4">
+                            <div class="box bg-white shadow p-30">
+                                <figure class="main mb-20 overlay overlay1 rounded"><img src="image/im1.jpg" alt="" /></a>
+                                    <figcaption>
+                                        
+                                    </figcaption>
+                                </figure>
+                                <h5 class="mb-0"><i>Pretty</i></h5>
+                              
+                            </div>
+                            <!-- /.box -->
+                        </div>
+                        <!--/.item -->
+                        <div class="item grid-sizer col-md-6 col-lg-4">
+                            <div class="box bg-white shadow p-30">
+                                <figure class="main mb-20 overlay overlay1 rounded"><img src="image/im7.jpg" alt="" /></a>
+                                    <figcaption>
+                                        
+                                    </figcaption>
+                                </figure>
+                                <h5 class="mb-0"><i>Marvellous</i></h5>
+                               
+                            </div>
+                            <!-- /.box -->
+                        </div>
+                        <!--/.item -->
+                        <div class="item grid-sizer col-md-6 col-lg-4">
+                            <div class="box bg-white shadow p-30">
+                                <figure class="main mb-20 overlay overlay1 rounded"><img src="image/im2.jpg" alt="" /></a>
+                                    <figcaption>
+                                        
+                                    </figcaption>
+                                </figure>
+                                <h5 class="mb-0"><i>Dazzling</i></h5>
+                                
+                            </div>
+                            <!-- /.box -->
+                        </div>
+                        <!--/.item -->
+                        
+                        <!--/.item -->
+                        
+                        <!--/.item -->
+                        <div class="item grid-sizer col-md-6 col-lg-4">
+                            <div class="box bg-white shadow p-30">
+                                <figure class="main mb-20 overlay overlay1 rounded"><img src="image/xtra.jpg" alt="" /></a>
+                                    <figcaption>
+                                        
+                                    </figcaption>
+                                </figure>
+                                <h5 class="mb-0"><i>Heart-stopping</i></h5>
+                               
+                            </div>
+                            <!-- /.box -->
+                        </div>
+                        <!--/.item -->
+                        
+                        <!--/.item -->
+                    </div>
+                    <!--/.row -->
+                </div>
+                <!--/.tiles -->
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /.wrapper -->
+        <div class="wrapper image-wrapper bg-image inverse-text" data-image-src="image/saree1.jpg">
+            <div class="container inner pt-150 pb-150 text-center">
+                <h2 class="heading mb-40">“And in her smile I see something more beautiful than the stars.”</h2>
+                
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /.wrapper -->
+        <div class="wrapper light-wrapper">
+            <div class="container inner">
+                <h2 class="section-title section-title-upper larger text-center">From My Journal</h2>
+				<p class="lead text-center">Beauty begins the moment you decide to be yourself!! ❤</p>
+                <div class="cube-carousel cbp grid-view boxed">
+                    <div class="cbp-item">
+                        <div class="box bg-white shadow p-30">
+                            <figure class="main mb-30 overlay overlay1 rounded"> <iframe width="345" height="340" src="videos/vid7.mp4" frameborder="0" allowfullscreen></iframe>
+      
+                                
+                            </figure>
+                            
+                       
+                            
+                            <!-- /.post-content -->
+                            <hr />
+                            <div class="meta meta-footer d-flex justify-content-between mb-0"><span class="date">14 Nov 2021</span></div>
+                        </div>
+                        <!-- /.box -->
+                    </div>
+                    <!-- /.cbp-item -->
+                    <div class="cbp-item">
+                        <div class="box bg-white shadow p-30">
+                            <figure class="main mb-30 overlay overlay1 rounded"> <iframe width="345" height="340" src="videos/vid3.mp4" frameborder="0" allowfullscreen></iframe>
+                              
+                            </figure>
+                            
+                        
+                            
+                            <!-- /.post-content -->
+                            <hr />
+                            <div class="meta meta-footer d-flex justify-content-between mb-0"><span class="date">01 Apr 2021</span></div>
+                        </div>
+                        <!-- /.box -->
+                    </div>
+                    <!-- /.cbp-item -->
+                    <div class="cbp-item">
+                        <div class="box bg-white shadow p-30">
+                            <figure class="main mb-30 overlay overlay1 rounded"><iframe width="345" height="340" src="videos/vid2.mp4" frameborder="0" allowfullscreen></iframe>
+                                
+                            </figure>
+                            
+                          
+                            
+                            <!-- /.post-content -->
+                            <hr />
+                            <div class="meta meta-footer d-flex justify-content-between mb-0"><span class="date">07 Jan 2021</span></div>
+                        </div>
+                        <!-- /.box -->
+                    </div>
+                    <!-- /.cbp-item -->
+                    <div class="cbp-item">
+                        <div class="box bg-white shadow p-30">
+                            <figure class="main mb-30 overlay overlay1 rounded"> <iframe width="345" height="340" src="videos/vid1.mp4" frameborder="0" allowfullscreen></iframe>
+                                
+                            </figure>
+                            
+                     
+                           
+                            <!-- /.post-content -->
+                            <hr />
+                            <div class="meta meta-footer d-flex justify-content-between mb-0"><span class="date">5 Oct 2021</span></div>
+                        </div>
+                        <!-- /.box -->
+                    </div>
+                    <!-- /.cbp-item -->
+                    <div class="cbp-item">
+                        <div class="box bg-white shadow p-30">
+                            <figure class="main mb-30 overlay overlay1 rounded"> <iframe width="345" height="340" src="videos/vid5.mp4" frameborder="0" allowfullscreen></iframe>
+                                
+                            </figure>
+                            
+                         
+                            
+                            <!-- /.post-content -->
+                            <hr />
+                            <div class="meta meta-footer d-flex justify-content-between mb-0"><span class="date">21 Oct 2021</span></div>
+                        </div>
+                        <!-- /.box -->
+                    </div>
+                    <!-- /.cbp-item -->
+                    <div class="cbp-item">
+                        <div class="box bg-white shadow p-30">
+                            <figure class="main mb-30 overlay overlay1 rounded"> <iframe width="345" height="340" src="videos/vid6.mp4" frameborder="0" allowfullscreen></iframe>
+                            </figure>
+                               
+                            <!-- /.post-content -->
+                            <hr />
+                            <div class="meta meta-footer d-flex justify-content-between mb-0"><span class="date">09 Nov 2021</span></div>
+                        </div>
+                        <!-- /.box -->
+                    </div>
+                    <!-- /.cbp-item -->
+                    <div class="cbp-item">
+                        <div class="box bg-white shadow p-30">
+                            <figure class="main mb-30 overlay overlay1 rounded"><iframe width="345" height="340" src="videos/vid4.mp4" frameborder="0" allowfullscreen></iframe>
+                                
+                            </figure>
+                            
+                     
+                            
+                            <!-- /.post-content -->
+                            <hr />
+                            <div class="meta meta-footer d-flex justify-content-between mb-0"><span class="date">09 Jun 2021</span></div>
+                        </div>
+                        <!-- /.box -->
+                    </div>
+                    <!-- /.cbp-item -->
+                </div>
+                <!-- /.cbp -->
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /.wrapper -->
+        <footer class="dark-wrapper inverse-text">
+            <div class="container inner">
+                <div class="row">
+                    <div class="col-md-6 col-lg-3">
+                        <div class="widget">
+                            <h3 class="widget-title"><u>Time Table of Madam</u></h3>
+							<br>
+                            <ul class="image-list">
+                                <li>
+                                    <figure class="rounded"><img src="image/tue.png" alt="" /></a></figure>
+                                    <div class="post-content">
+                                        <h6 class="post-title"><u>Tuesday</u> - Tution</a> </h6>
+                                       
+                                    </div>
+                                </li>
+                                <li>
+                                    <figure class="rounded"><img src="image/thur.png" alt="" /></a></figure>
+                                    <div class="post-content">
+                                        <h6 class="post-title"><u>Thursday</u> - Tution & College</a> </h6>
+                                        
+                                    </div>
+                                </li>
+                                <li>
+                                    <figure class="rounded"><img src="image/fri.png" alt="" /></a></figure>
+                                    <div class="post-content">
+                                        <h6 class="post-title"> <u>Friday</u> - College</a> </h6>
+                                        
+                                    </div>
+                                </li>
+                            </ul>
+                            <!-- /.image-list -->
+                        </div>
+                        <!-- /.widget -->
+                    </div>
+                    <!-- /column -->
+                    <div class="col-md-6 col-lg-3">
+                        <div class="widget">
+                            <h3 class="widget-title"><u>Interests of Her</u></h3>
+							<br>
+                            <ul class="list-unstyled tag-list">
+                                <li><a  class="btn btn-white shadow">Cooking</a></li>
+                                <li><a  class="btn btn-white shadow">Fitness Freak</a></li>
+                                <li><a  class="btn btn-white shadow">Hard-worker</a></li>
+                                
+                            </ul>
+                        </div>
+                       
+                        <!-- /.widget -->
+                    </div>
+                    <!-- /column -->
+                    <div class="col-md-6 col-lg-3">
+                        <div class="widget">
+                            <h3 class="widget-title"><u>Get in Touch</u></h3><br>
+                            <address>
+                <strong>Sathi Dey</strong><br> Pratappur <br> Panskura, Medinipur<br>
+                
+                <abbr title="Facebook">Facebook:</abbr> <a href="https://www.facebook.com/sathi.dey.5036459" class="nocolor">Sathi Dey</a>
+              </address>
+                        </div>
+                        <!-- /.widget -->
+                      
+                        
+                        <!-- /.widget -->
+                    </div>
+                    <!-- /column -->
+                </div>
+                <!--/.row -->
+                <div class="space30"></div>
+                <p class="text-center mb-0">© 2021 Sathi. All rights reserved.</p>
+            </div>
+            <!-- /.container -->
+        </footer>
+    </div>
+    <!-- /.content-wrapper -->
+    <script src="style/js/jquery.min.js"></script>
+    <script src="style/js/popper.min.js"></script>
+    <script src="style/js/bootstrap.min.js"></script>
+    <script src="style/revolution/js/jquery.themepunch.tools.min.js"></script>
+    <script src="style/revolution/js/jquery.themepunch.revolution.min.js"></script>
+    <script src="style/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+    <script src="style/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+    <script src="style/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+    <script src="style/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+    <script src="style/revolution/js/extensions/revolution.extension.migration.min.js"></script>
+    <script src="style/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+    <script src="style/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+    <script src="style/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+    <script src="style/revolution/js/extensions/revolution.extension.video.min.js"></script>
+    <script src="style/js/plugins.js"></script>
+    <script src="style/js/scripts.js"></script>
+</body>
+
+</html>
